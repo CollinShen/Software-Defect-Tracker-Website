@@ -5,7 +5,7 @@ Here's a detailed README file explaining how the code works:
 This project is a web-based Software Defect Tracker application built using Django and JavaScript. It allows users to view, search, and edit software defects stored in a PostgreSQL database.
 
 
---> Internship exit video explaining dedign choices https://www.youtube.com/watch?v=-8vl7G7Cm0I
+--> Internship exit video explaining design choices. Watch this first so reading the code and this readme is easier to understand https://www.youtube.com/watch?v=-8vl7G7Cm0I
 
 
 ## Table of Contents
